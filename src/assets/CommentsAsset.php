@@ -19,7 +19,7 @@ class CommentsAsset extends \yii\web\AssetBundle
     ];
 
     public $depends = [
-        'yii\bootstrap\BootstrapAsset',
+        'yii\bootstrap4\BootstrapAsset',
         'yii\web\JqueryAsset',
     ];
 }
